@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemDadoEmCasa</string>
+    <string name="D4">Dado4</string>
+    <string name="D6">Dado6</string>
+    <string name="D8">Dado8</string>
+    <string name="D10">Dado10</string>
+    <string name="D12">Dado12</string>
+    <string name="D20">Dado20</string>
+    <string name="D100">Dado100</string>
+    <string name="btnJogar">Jogar</string>
+</resources>
